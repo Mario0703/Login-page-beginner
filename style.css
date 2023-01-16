@@ -1,0 +1,19 @@
+.sign-in-title{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+.login-form{
+    text-align: right;
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 1140px;
+    
+}
+
+.login-form{
+    margin-right: 25px;
+}
+.help-me-section{
+    text-align: center;
+}
