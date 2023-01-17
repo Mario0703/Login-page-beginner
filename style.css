@@ -49,6 +49,29 @@ body{
 
 }
 
+.sign-in-but{
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+
+.btn-social-sign-in{
+    border-radius: 75em;
+    height: 60px;
+    border-radius: .5em;
+    border: 2px solid black;
+    cursor: pointer;
+    font-size: large;
+    text-align: center;
+
+}
+
+.sign-in-options{
+    display: inline-flex;
+}
+
 .btn{
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-radius: 03em;
@@ -57,4 +80,10 @@ body{
     margin-top: 02em;
     width: 300px;
     height: 40px;
+    cursor: pointer;
+}
+
+.but-img{
+width: 30px;
+height: 30px;
 }
