@@ -33,15 +33,28 @@ body{
 
 .input-field{
     margin-top: 25px;
+    margin-left: 03em;
+    margin-right: 03em;
+    margin-bottom: 03em;
 }
 .help-me-section{
     text-align: center;
-    color: white;
+    color: black
 }
 
 .btn-signup{
-    margin-top:  .9em;
     text-align: center;
     margin-bottom: .4em;
     border-top: 1px solid black;
+
+}
+
+.btn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 03em;
+    background-color: black;
+    color: white;
+    margin-top: 02em;
+    width: 300px;
+    height: 40px;
 }
